@@ -1,8 +1,12 @@
 # Bakalaurinio darbo failai
 
-## CatPred.ipynb
+## CatPred.ipynb, DLKcat.ipynb, EvoEF2_DynaMut2.ipynb
 
-CatPred įrankio kodas įverčiams gauti
+Įrankių kodai įverčiams gauti
+
+## mutaciju_saraso_gavimas.ipynb
+
+Gauti mutacijų sąrašai, kurie buvo reikalingi kitų įrankių prognozėms gauti
 
 ## AntroEtapoDUOMENYS.xlsx
 
