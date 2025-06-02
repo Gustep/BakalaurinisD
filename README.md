@@ -8,7 +8,7 @@
 
 Gauti mutacijų sąrašai, kurie buvo reikalingi kitų įrankių prognozėms gauti
 
-## AntroEtapoDUOMENYS.xlsx
+## AntroEtapoDUOMENYS.xlsx, PirmoEtapoDUOMENYS.xlsx
 
-Antrame etape panaudotų sekų duomenys ir naudotų įrankių prognozuoti įverčiai
+Pirmame ir antrame etapuose panaudotų sekų duomenys ir naudotų įrankių prognozuoti įverčiai
 
